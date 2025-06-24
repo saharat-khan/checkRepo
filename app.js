@@ -1,1 +1,1 @@
-alert("GitHub Practise")
+console.log("Hello")
